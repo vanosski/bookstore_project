@@ -61,4 +61,4 @@ CREATE TABLE Cart(
 INSERT INTO `book`(`BookID`, `BookTitle`, `ISBN`, `Price`, `Author`, `Type`, `Image`) VALUES ('B-001','Kerela (Travel Guide)','123-456-789-1',136,'Vipin Nayar','Travel','image/travel.jpg');
 INSERT INTO `book`(`BookID`, `BookTitle`, `ISBN`, `Price`, `Author`, `Type`, `Image`) VALUES ('B-002','Python For Beginners','123-456-789-2',599,'Denny Novikov','Technical','image/technical.jpg');
 INSERT INTO `book`(`BookID`, `BookTitle`, `ISBN`, `Price`, `Author`, `Type`, `Image`) VALUES ('B-003','CCNA Routing and Switching 200-125 Official Cert Guide Library','123-456-789-3',329,'Cisco Press ','Technology','image/technology.jpg');
-INSERT INTO `book`(`BookID`, `BookTitle`, `ISBN`, `Price`, `Author`, `Type`, `Image`) VALUES ('B-004','Indian Cooking','123-456-789-4',75.9,'Suneeta Vaswani','Food','image/food.jpg');
+INSERT INTO `book`(`BookID`, `BookTitle`, `ISBN`, `Price`, `Author`, `Type`, `Image`) VALUES ('B-004','Indian Cooking Book','123-456-789-4',75.9,'Suneeta Vaswani','Food','image/food.jpg');
